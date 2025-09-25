@@ -1,4 +1,4 @@
-# kaiburr-assessment-frontend
+# task-manager-assessment-frontend
 
 A modern React TypeScript frontend for managing and executing shell commands with a beautiful, responsive UI built with Ant Design.
 
