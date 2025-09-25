@@ -4,10 +4,15 @@ A modern React TypeScript frontend for managing and executing shell commands wit
 
 # Features:
 Task Management: Create, edit, delete, and view tasks
+
 Command Execution: Execute shell commands and view real-time output
+
 Search & Filter: Find tasks quickly with live search
+
 Execution History: Track all command executions with timestamps
+
 Responsive Design: Works seamlessly on desktop
+
 Modern UI: Clean interface built with Ant Design components
 
 # Technologies Used
